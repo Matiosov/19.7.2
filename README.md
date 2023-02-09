@@ -11,3 +11,7 @@
 В директории /tests располагается файл с тестами.
 
 В директории /tests/images лежат фотографии для тестов.
+
+SWAGGER
+PetFriends API v1
+https://petfriends.skillfactory.ru/apidocs/#/
